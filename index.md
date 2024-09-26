@@ -21,6 +21,9 @@ Un actuador eléctrico es un dispositivo que convierte la energía eléctrica en
 - **Velocidad:** Tienen una alta velocidad de respuesta.
 - **Eficiencia:** Son muy eficientes energéticamente.
 - **Mantenimiento:** Requieren menos mantenimiento que otros tipos de actuadores, ya que no tienen piezas móviles en contacto continuo.
+- 
+### Funcionamiento
+El actuador eléctrico recibe una señal de control (generalmente una señal eléctrica), la cual es procesada por un controlador, y luego convierte esa señal en un movimiento rotativo o lineal. Los actuadores lineales, por ejemplo, utilizan un tornillo sin fin para convertir el movimiento rotativo del motor en movimiento lineal.
 
 ![Actuadores Eléctricos](https://www.novotecargentina.com/documentos/3/1057_Actuadores-electricos%20.jpg "A. Eléctricos")
 
