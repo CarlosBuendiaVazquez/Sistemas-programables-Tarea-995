@@ -21,9 +21,14 @@ Un actuador eléctrico es un dispositivo que convierte la energía eléctrica en
 - **Velocidad:** Tienen una alta velocidad de respuesta.
 - **Eficiencia:** Son muy eficientes energéticamente.
 - **Mantenimiento:** Requieren menos mantenimiento que otros tipos de actuadores, ya que no tienen piezas móviles en contacto continuo.
-- 
+  
 ### Funcionamiento
 El actuador eléctrico recibe una señal de control (generalmente una señal eléctrica), la cual es procesada por un controlador, y luego convierte esa señal en un movimiento rotativo o lineal. Los actuadores lineales, por ejemplo, utilizan un tornillo sin fin para convertir el movimiento rotativo del motor en movimiento lineal.
+
+### Modo de comunicación
+- **Señales PWM (modulación por ancho de pulso):** Común en servomotores.
+- **Señal digital o analógica:** En motores de corriente continua y alterna.
+- **Protocolo de comunicación:** En aplicaciones industriales, se pueden usar protocolos como Modbus o Profibus para su control.
 
 ![Actuadores Eléctricos](https://www.novotecargentina.com/documentos/3/1057_Actuadores-electricos%20.jpg "A. Eléctricos")
 
@@ -44,6 +49,13 @@ Un actuador mecánico es un dispositivo que convierte una entrada de energía (y
 - **Durabilidad:** Generalmente, tienen una vida útil más larga si se les da un mantenimiento adecuado.
 - **Fuerza:** Pueden generar una gran cantidad de fuerza.
 - **Velocidad:** Su velocidad está limitada por el diseño mecánico y la relación de engranajes o componentes.
+- 
+### Funcionamiento
+El actuador mecánico funciona mediante mecanismos como engranajes, poleas o tornillos que convierten una entrada de fuerza o movimiento en un desplazamiento lineal o rotativo. Por ejemplo, un sistema de cremallera y piñón transforma el movimiento circular de un motor en movimiento lineal.
+
+### Modo de comunicación
+- **Manual:** A menudo requieren intervención manual o control a través de una palanca, volante o engranaje.
+- **Sistema de control mecánico:** En algunas aplicaciones automatizadas, se integran con sistemas eléctricos para recibir señales a través de sensores o controladores.
 
 ![Actuadores Eléctricos](https://img.interempresas.net/FotosArtProductos/P56888.jpg "A. Eléctricos")
 
@@ -64,5 +76,13 @@ Un actuador hidráulico es un dispositivo que convierte la energía hidráulica 
 - **Precisión:** Ofrecen un buen control sobre la fuerza aplicada, aunque la precisión en la posición puede ser limitada.
 - **Velocidad:** La velocidad es más limitada en comparación con los actuadores eléctricos, dependiendo de la cantidad de fluido.
 - **Mantenimiento:** Requieren más mantenimiento debido al desgaste de componentes como sellos y válvulas, y por el riesgo de fugas de fluido.
+
+### Funcionamiento
+Los actuadores hidráulicos funcionan mediante la presión de un líquido dentro de un cilindro o un sistema de válvulas. Cuando se introduce fluido a presión en una cámara cerrada, el líquido desplaza un pistón, lo que genera un movimiento lineal. En los motores hidráulicos, la presión de fluido se convierte en movimiento rotativo.
+
+### Modo de comunicación
+- **Válvulas de control:** Utilizan válvulas hidráulicas controladas electrónicamente o manualmente.
+- **Sensores de presión y posición:** Para monitorear el movimiento y retroalimentar al sistema de control.
+- **Control remoto:** A través de sistemas electrónicos que ajustan la presión del fluido a través de válvulas y bombas.
 
 ![Actuadores Eléctricos](https://img.interempresas.net/fotos/2515647.jpeg "A. Eléctricos")
